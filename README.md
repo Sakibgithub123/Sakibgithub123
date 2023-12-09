@@ -2,7 +2,7 @@
 ## Hey! Welcome,
 
 <!-- ![alt text ](/image/cover.png) -->
-<img width="400" align="center" src="image/cover.png">
+<img width="1200" align="center" src="image/cover.png">
 
 - 👋 Hi, I’m Md Sakibul Hasan 
 - 👀 I’m interested in Programming. 
