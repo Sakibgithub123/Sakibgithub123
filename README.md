@@ -13,15 +13,19 @@
  **As a MERN stack developer, I am proficiently leverage MongoDB, Express.js, React.js, and Node.js to build dynamic and scalable web applications. My expertise lies in crafting seamless, full-stack solutions with efficiency and innovation. I am expert in HTML,  CSS, Tailwind, Bootstrap, Daisyui, Javascript, jQuery, REACT, Nodejs, Expressjs, Mongodb, php, Laravel, Ajax, mysql, Figma, Git, Github.**
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sakibgithub123&theme=dark&width=1200)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sakibgithub123&theme=dark&width=1200)](https://git.io/streak-stats) -->
 
-<img width="1200" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sakibgithub123&theme=dark" >
+<a href="https://git.io/streak-stats">
+<img width="1200" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Sakibgithub123&theme=dark&width=1200)](https://git.io/streak-stats" >
 
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sakibgithub123&theme=dark) -->
+</a>
+
 
 <img width="1200" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sakibgithub123&theme=dark" >
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sakibgithub123&theme=dark)
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sakibgithub123&theme=dark) -->
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sakibgithub123&theme=dark)
 
 
 
