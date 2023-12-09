@@ -1,15 +1,16 @@
 
-## Hey! Welcome. 
-![alt text](/image/cover.png)
+## Hey! Welcome,
+
+<!-- ![alt text ](/image/cover.png) -->
+<img width="400" align="center" src="image/cover.png">
 
 - 👋 Hi, I’m Md Sakibul Hasan 
 - 👀 I’m interested in Programming. 
 - 🌱I’m currently working as a   MERN    stack and Laravel developer.
-- 💞️ I’m looking to collaborate on ...
 - 📫 sakibbangla49@gmail.com
 
-## 📫About me
- **As a MERN stack developer, I am proficiently leverage MongoDB, Express.js, React.js, and Node.js to build dynamic and scalable web applications. My expertise lies in crafting seamless, full-stack solutions with efficiency and innovation. I am expert in html,  css, tailwind, bootstrap, daisyui, Js, jQuery, react, nodejs, expressjs, mongodb, php, laravel, ajax, mysql, figma, it, ithub.**
+## 📫Description 
+ **As a MERN stack developer, I am proficiently leverage MongoDB, Express.js, React.js, and Node.js to build dynamic and scalable web applications. My expertise lies in crafting seamless, full-stack solutions with efficiency and innovation. I am expert in HTML,  CSS, Tailwind, Bootstrap, Daisyui, Javascript, jQuery, REACT, Nodejs, Expressjs, Mongodb, php, Laravel, Ajax, mysql, Figma, Git, Github.**
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sakibgithub123&theme=dark)](https://git.io/streak-stats)
 
