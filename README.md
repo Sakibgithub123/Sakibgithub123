@@ -15,8 +15,11 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sakibgithub123&theme=dark&width=1200)](https://git.io/streak-stats)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sakibgithub123&theme=dark)
+<img width="1200" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sakibgithub123&theme=dark" >
 
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sakibgithub123&theme=dark) -->
+
+<img width="1200" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sakibgithub123&theme=dark" >
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sakibgithub123&theme=dark)
 
