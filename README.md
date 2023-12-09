@@ -21,6 +21,12 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sakibgithub123&theme=dark)
 
+<div align="center" >
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sakibgithub123&theme=aura_dark" width="600">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sakibgithub123&theme=aura_dark" width="600">
+
+</div>
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sakibgithub123&theme=aura_dark)
 
