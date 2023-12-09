@@ -14,16 +14,17 @@
 
 <div width="1200">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sakibgithub123&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sakibgithub123&theme=dark&width=1200)](https://git.io/streak-stats)
 
 </div>
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sakibgithub123&theme=dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sakibgithub123&theme=dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sakibgithub123&theme=dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sakibgithub123&theme=aura_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sakibgithub123&theme=aura_dark&utcOffset=8)
 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,jquery,react,nodejs,express,mongodb,laravel,php,mysql,figma,github,git)](https://skillicons.dev)
