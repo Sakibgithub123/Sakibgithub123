@@ -9,7 +9,7 @@
 - 📫 sakibbangla49@gmail.com
 
 ## 📫About me
- **As a MERN stack developer, I am proficiently leverage MongoDB, Express.js, React.js, and Node.js to build dynamic and scalable web applications. My expertise lies in crafting seamless, full-stack solutions with efficiency and innovation. I am expert in html, css,tailwind,bootstrap,daisyui,Js,jQuery,react,nodejs,expressjs,mongodb,php,laravel,ajax,mysql,figma,git,github.**
+ **As a MERN stack developer, I am proficiently leverage MongoDB, Express.js, React.js, and Node.js to build dynamic and scalable web applications. My expertise lies in crafting seamless, full-stack solutions with efficiency and innovation. I am expert in html,  css, tailwind, bootstrap, daisyui, Js, jQuery, react, nodejs, expressjs, mongodb, php, laravel, ajax, mysql, figma, it, ithub.**
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sakibgithub123&theme=dark)](https://git.io/streak-stats)
 
